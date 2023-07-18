@@ -7,7 +7,7 @@ Tech used: JavaScript, HTML, CSS, a *Bob's Burgers* API
 This started as a plain HTML and CSS project, where I had 6 buttons that only retrieved 6 pieces of hardcoded data (aka 6 burgers). I knew I would eventually need JavaScript skills to make what was in my head, but decided to create a sketch and build upon it later. Once I got comfortable with APIs, things really started cooking. I used event listeners for the button (which is actually an img tag wrapped in an anchor link tag), query selectors to display the data in the DOM, and functions. I had so much fun working on the front-end for this project--giving border to the 'chalkboard,' finding a handwritten-style font that was readable instead of distracting, using the bright and friendly color palette inspired by the show.
 
 # Lessons Learned
-I could have avoided a lot of frustration if I had read the API documentation more thoroughly the first time before writing any code. Read twice (or thrice!), code once is my new motto.
+I could have avoided a lot of frustration if I had read the API documentation more thoroughly the first time before writing any code. <em>Read twice (or thrice!), code once</em> is my new motto.
 
 # Credits
 Images: 
