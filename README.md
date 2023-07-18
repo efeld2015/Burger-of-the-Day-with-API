@@ -9,3 +9,10 @@ This started as a plain HTML and CSS project, where I had 6 buttons that only re
 # Lessons Learned
 I could have avoided a lot of frustration if I had read the API documentation more thoroughly the first time before writing any code. Read twice (or thrice!), code once is my new motto.
 
+# Credits
+Images: 
+hamburger - istockphoto.com
+Belcher family - parade.com
+
+API:
+https://www.bobsburgersapi.com/documentation#burger-of-the-day
